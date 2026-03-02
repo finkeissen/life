@@ -1,8 +1,8 @@
-# Manifest – Reincarnation
+# Manifest – BEING
 
 ## 1. Ontological Position
 
-Reincarnation is not spiritual continuity.
+BEING is not spiritual continuity.
 
 It is structural recurrence.
 
@@ -25,7 +25,7 @@ it must be externally enforced.
 If it is neither,
 collapse becomes inevitable.
 
-Reincarnation describes this inevitability.
+BEING describes this inevitability.
 
 Not as fate.
 As structure.
@@ -94,7 +94,7 @@ Maturity is only the capacity to carry.
 
 ---
 
-## 6. What Reincarnation Is Not
+## 6. What BEING Is Not
 
 - Not religious salvation
 - Not karmic justice
@@ -141,7 +141,7 @@ Final Version (public):
 
 ## 9. Inclusion Criteria for Contributors
 
-A work belongs inside Reincarnation if:
+A work belongs inside BEING if:
 
 - It centers structural recurrence of unresolved responsibility.
 - It refuses redemptive closure.
@@ -158,7 +158,7 @@ A work does not belong if:
 
 ## 10. Final Statement
 
-Reincarnation does not describe the path to maturity.
+BEING does not describe the path to maturity.
 
 It describes the losses that make maturity unavoidable —
 or break the system.

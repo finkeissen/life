@@ -1,7 +1,7 @@
-# Dimensions – Reincarnation
+# Dimensions – BEING
 
 This document defines the structural dimensions
-along which works inside the Reincarnation space operate.
+along which works inside the BEING space operate.
 
 These are not themes.
 They are axes of instability.
@@ -219,7 +219,7 @@ Responsibility is not removed by clarity.
 
 ## 22. Recurrence without Redemption
 
-Reincarnation is structural return.
+BEING is structural return.
 
 Not salvation.
 Not progress.
