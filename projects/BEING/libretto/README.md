@@ -31,3 +31,10 @@ The libretto must accept loss.
 What cannot be sung
 cannot be retained.
 
+## Core references
+
+- `foundation/core/README.md`
+- `foundation/core/architecture.md`
+- `foundation/core/principles.md`
+- `foundation/core/glossary.md`
+

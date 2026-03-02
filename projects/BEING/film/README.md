@@ -26,3 +26,10 @@ of false coherence.
 Any film project must explicitly state
 how narrative closure is resisted.
 
+## Core references
+
+- `foundation/core/README.md`
+- `foundation/core/architecture.md`
+- `foundation/core/principles.md`
+- `foundation/core/glossary.md`
+

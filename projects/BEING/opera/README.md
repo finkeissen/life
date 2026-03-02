@@ -28,3 +28,10 @@ one architectural cut.
 No opera may claim
 to represent the architecture as a whole.
 
+## Core references
+
+- `foundation/core/README.md`
+- `foundation/core/architecture.md`
+- `foundation/core/principles.md`
+- `foundation/core/glossary.md`
+

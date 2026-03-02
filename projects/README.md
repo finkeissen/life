@@ -1,10 +1,17 @@
 # Projects
 
-Projects are **media projections** derived from the core architecture of `life`.
+ # Projects
 
-They do not define the core.
-They do not complete it.
-They do not resolve it.
+ Projects are **media projections** derived from the core architecture of `life`.
+
++## Terminology
++
++The **master glossary** lives at `foundation/core/glossary.md`.
++Project documents should reference it rather than redefining terms locally.
++
+ They do not define the core.
+ They do not complete it.
+ They do not resolve it.
 
 Each project represents a **bounded cut**
 through the architecture,
@@ -334,3 +341,15 @@ Commercial use requires a separate license.
 
 The foundation is open to extension,
 but not exempt from responsibility.
+
+## Project creation rule
+
+A project must:
+
+- declare its projection angle
+- reference the core architecture
+- accept structural limitation
+- avoid redefining core terminology
+
+Projects are not expansions of the core.
+They are constrained projections.

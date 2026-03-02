@@ -24,3 +24,10 @@ Installations must remain legible
 as projections of structure,
 not as immersive totalities.
 
+## Core references
+
+- `foundation/core/README.md`
+- `foundation/core/architecture.md`
+- `foundation/core/principles.md`
+- `foundation/core/glossary.md`
+

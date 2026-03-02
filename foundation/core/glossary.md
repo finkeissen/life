@@ -1,5 +1,15 @@
 # Glossary
 
++This is the master glossary of the life architecture.
++
++All projects, projections, and derived modules must reference this glossary.
++Core terminology is defined here and is not to be redefined locally.
++
++Project-level documents may introduce contextual clarifications,
++but they must not alter structural definitions.
++
+---
+
 - **Core**  
   The stable structural architecture underlying all projections.
 

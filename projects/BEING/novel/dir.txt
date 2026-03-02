@@ -1,0 +1,41 @@
+.:
+insgesamt 16
+drwxrwxr-x 2 ef ef 4096 Mär  2 12:14 architecture
+-rw-rw-r-- 1 ef ef    0 Mär  2 12:15 dir.txt
+drwxrwxr-x 2 ef ef 4096 Mär  2 11:53 dramaturgy
+drwxrwxr-x 2 ef ef 4096 Mär  2 11:53 execution
+drwxrwxr-x 2 ef ef 4096 Mär  2 11:55 ingredients
+
+./architecture:
+insgesamt 56
+-rw-r--r-- 1 ef ef  476 Mär  2 11:01 00_principles.md
+-rw-r--r-- 1 ef ef  399 Mär  2 11:01 01_structural_invariants.md
+-rw-r--r-- 1 ef ef 1120 Mär  2 11:11 02_ontology.md
+-rw-r--r-- 1 ef ef  737 Mär  2 11:01 03_zone_model.md
+-rw-r--r-- 1 ef ef  974 Mär  2 11:11 04_zone_differentiation_tests.md
+-rw-r--r-- 1 ef ef  491 Mär  2 11:11 05_structural_energy_model.md
+-rw-r--r-- 1 ef ef  505 Mär  2 11:11 06_compression_principle.md
+-rw-r--r-- 1 ef ef  368 Mär  2 11:01 07_recurrence_logic.md
+-rw-r--r-- 1 ef ef  242 Mär  2 11:01 08_responsibility_mechanics.md
+-rw-r--r-- 1 ef ef  484 Mär  2 11:01 09_admissibility_and_stop_conditions.md
+-rw-r--r-- 1 ef ef  340 Mär  2 11:01 10_dual_version_principle.md
+-rw-r--r-- 1 ef ef  346 Mär  2 11:01 11_architecture_decision_log.md
+-rw-rw-r-- 1 ef ef 4947 Mär  2 12:06 12_exposure_vectors.md
+
+./dramaturgy:
+insgesamt 0
+
+./execution:
+insgesamt 0
+
+./ingredients:
+insgesamt 40
+-rw-r--r-- 1 ef ef  386 Mär  2 10:54 anthropological_conditions.md
+-rw-r--r-- 1 ef ef  266 Mär  2 10:54 institutional_fields.md
+-rw-r--r-- 1 ef ef  620 Mär  2 10:54 life_phases_structural.md
+-rw-r--r-- 1 ef ef  250 Mär  2 10:54 physical_dimension.md
+-rw-r--r-- 1 ef ef 5255 Mär  1 12:55 README.md
+-rw-r--r-- 1 ef ef  311 Mär  2 10:54 recurrence_patterns.md
+-rw-rw-r-- 1 ef ef 3015 Mär  1 17:49 scene_ideas.md
+-rw-r--r-- 1 ef ef  318 Mär  2 10:54 structural_tensions.md
+-rw-rw-r-- 1 ef ef 3062 Mär  1 17:49 topic_ideas.md
