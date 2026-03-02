@@ -3496,3 +3496,12 @@ If projections must declare their reductions,
 so must the architecture that generates them.
 
 
+## On Failure
+
+A work may fail under its own declared constraints.
+
+Such failure does not invalidate the work.
+It reveals the limit of the chosen reduction.
+
+Failure should not be concealed.
+It should be marked.
