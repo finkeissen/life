@@ -1,4 +1,4 @@
-# life
+# LIFE Art Framework
 
 Human life unfolds under constraint.
 
