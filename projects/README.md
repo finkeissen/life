@@ -1,14 +1,12 @@
 # Projects
 
- # Projects
+Projects are **media projections** derived from the core architecture of `life`.
 
- Projects are **media projections** derived from the core architecture of `life`.
+## Terminology
 
-+## Terminology
-+
-+The **master glossary** lives at `foundation/core/glossary.md`.
-+Project documents should reference it rather than redefining terms locally.
-+
+The **master glossary** lives at `foundation/core/glossary.md`.
+Project documents should reference it rather than redefining terms locally.
+
  They do not define the core.
  They do not complete it.
  They do not resolve it.
