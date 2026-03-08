@@ -1,40 +1,24 @@
-# Libretto
+# Libretto Architecture
 
-This folder hosts the **libretto**
-as a compression layer of the architecture.
+This directory contains the structural and dramaturgical architecture for the opera cycle derived from the novel's epistemic framework.
 
-The libretto is not an end product.
+Core ideas:
 
-It functions as a **reductive hinge**
-between structure and performance.
+- The opera cycle contains **five operas**
+- Each opera corresponds to a phase of the epistemic trajectory
+- Narratives may occur across multiple historical epochs
+- Recurring characters, motifs, and structures reveal deeper patterns
 
-It emphasizes:
-- voice
-- decision
-- scene
-- irreversibility
-- minimal justification
+Main files:
 
-Typical strengths:
-- structural clarity through reduction
-- exposure of decision points
-- elimination of narrative comfort
-
-Typical blind spots:
-- interior development
-- contextual explanation
-- gradual transformation
-
-Structural constraint:
-The libretto must accept loss.
-
-What cannot be sung
-cannot be retained.
-
-## Core references
-
-- `foundation/core/README.md`
-- `foundation/core/architecture.md`
-- `foundation/core/principles.md`
-- `foundation/core/glossary.md`
-
+- opera_structure.md
+- opera_libretto_architecture.md
+- characters.md
+- leitmotifs.md
+- act_structure.md
+- chorus_function.md
+- why_opera.md
+- opera_I_libretto_outline.md – opera_V_libretto_outline.md
+- scene_mirror_map.md
+- leitmotif_development.md
+- projection_matrix.md
