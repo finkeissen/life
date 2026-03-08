@@ -1,143 +1,217 @@
-# virtual_timeline.md
+# Virtual Timeline
 
 ## Purpose
 
-This timeline describes the **abstract epistemic trajectory** underlying the novel.
+This document defines the abstract epistemic trajectory underlying the narrative architecture.
 
-It is not tied to specific historical periods or characters.  
-Instead it defines structural phases that can later be **instantiated in different epochs**.
+It does not describe a chronological sequence of events.
 
-The timeline therefore remains **virtual**: it exists as a structural backbone but does not appear explicitly in the narrative order.
+Instead, it defines a **virtual movement of understanding** through which structural tensions become visible.
 
-Multiple historical narratives may instantiate the same structural phases.
+The timeline is therefore called "virtual" because:
+
+- it exists independently of any specific historical narrative
+- it may appear in different epochs
+- it may recur at multiple narrative scales
 
 
 ---
 
-# Structural Timeline
+# Nature of the Virtual Timeline
 
-## Phase I — Immersion
+The virtual timeline describes the transformation of interpretive frameworks.
 
-The subject is fully embedded in an existing symbolic order.
+It does not primarily track:
+
+- external events
+- character development
+- psychological change
+
+Instead, it tracks **changes in how reality is interpreted**.
+
+Narrative events become meaningful only insofar as they participate in this transformation.
+
+
+---
+
+# Core Phases
+
+## Immersion
+
+The protagonist is embedded within a coherent interpretive system.
 
 Characteristics:
 
-- trust in inherited structures
-- stability of meaning
-- institutional authority appears legitimate
-- knowledge appears cumulative and coherent
+- trust in institutional explanations
+- stable interpretive categories
+- minimal epistemic tension
 
-The subject experiences the world as **ordered and meaningful**.
+Narrative function:
+
+Establish the apparent stability of the world.
 
 
 ---
 
-## Phase II — First Fractures
+## First Fractures
 
-Small inconsistencies appear.
+Small inconsistencies appear within the interpretive framework.
 
 Characteristics:
 
-- contradictions in doctrine or institutional behavior
-- minor epistemic discomfort
-- perception that explanations do not fully account for reality
+- anomalies
+- unexplained outcomes
+- subtle interpretive discomfort
 
-These fractures remain manageable and are often rationalized.
+Narrative function:
+
+Introduce epistemic instability without collapsing the system.
 
 
 ---
 
-## Phase III — Structural Tension
+## Structural Tension
 
-Contradictions accumulate and begin to form patterns.
+Contradictions begin to accumulate.
 
 Characteristics:
 
-- repeated encounters with unresolved inconsistencies
-- tension between lived reality and official explanations
-- growing awareness of systemic limitations
+- repeated anomalies
+- mirrored events
+- increasing interpretive pressure
 
-The subject begins to suspect that the issue is **structural rather than accidental**.
+Narrative function:
+
+Shift perception from isolated anomalies to systemic patterns.
 
 
 ---
 
-## Phase IV — Crisis of Representation
+## Crisis of Representation
 
-The symbolic system fails to adequately represent reality.
+The existing explanatory framework becomes increasingly difficult to maintain.
 
 Characteristics:
 
-- established categories become unstable
-- authority structures lose epistemic credibility
-- the subject experiences cognitive disorientation
+- interpretive contradictions
+- defensive institutional reactions
+- competing explanations
 
-This phase often produces:
+Narrative function:
 
-- institutional conflict
-- social marginalization
-- existential uncertainty
+Expose the limits of the current interpretive system.
 
 
 ---
 
-## Phase V — Epistemic Breakthrough
+## Epistemic Breakthrough
 
-A new interpretative structure becomes visible.
+A new interpretive framework becomes visible.
 
 Characteristics:
 
-- recognition of underlying patterns
-- reinterpretation of earlier experiences
-- perception of systemic dynamics previously hidden
+- reinterpretation of earlier events
+- recognition of systemic dynamics
+- conceptual reorganization of reality
 
-The subject begins to see the **architecture behind the system**.
+Narrative function:
+
+Transform the structure through which events are understood.
 
 
 ---
 
-## Phase VI — Isolation
+## Isolation
 
-The new insight is not easily communicable.
+The new understanding produces social or institutional tension.
 
 Characteristics:
 
-- social or institutional distance
-- difficulty translating insight into accepted discourse
-- increasing solitude of the subject
+- skepticism from others
+- marginalization
+- withdrawal from established structures
 
-The gap between **structural insight and social reality** widens.
+Narrative function:
 
-
----
-
-## Phase VII — Reconfiguration
-
-The subject develops a new relation to knowledge, truth, and institutions.
-
-Possible outcomes include:
-
-- withdrawal
-- reform
-- subversive reinterpretation
-- silent endurance
-
-This phase does not necessarily resolve the conflict.  
-Instead it establishes a **new equilibrium with structural awareness**.
+Reveal the cost of structural awareness.
 
 
 ---
 
-# Structural Notes
+## Reconfiguration
 
-This timeline represents an **epistemic lifecycle** rather than a biographical chronology.
+A new equilibrium emerges after the epistemic shift.
 
-Its phases may appear:
+Characteristics:
 
-- sequentially
-- recursively
-- in mirrored form across different historical narratives
+- altered interpretive framework
+- continued awareness of structural tensions
+- stabilization of the narrative environment
 
-Each historical storyline in the novel may instantiate the same structural phases under different cultural conditions.
+Narrative function:
 
-The reader gradually reconstructs the shared structure across epochs.
+Establish a new baseline from which further cycles may begin.
+
+
+---
+
+# Relationship to the Zone Model
+
+The phases of the virtual timeline correspond broadly to transitions between epistemic zones.
+
+Zone A → Immersion  
+Zone B → First Fractures  
+Zone C → Structural Tension  
+Zone D → Crisis of Representation  
+Zone E → Epistemic Breakthrough
+
+
+---
+
+# Recurrence
+
+The virtual timeline may appear multiple times within a narrative.
+
+Examples:
+
+- small cycles within individual story arcs
+- larger cycles across historical epochs
+- mirrored cycles across different protagonists
+
+Recurrence reveals that the epistemic trajectory is **structural rather than personal**.
+
+
+---
+
+# Relationship to Dramaturgy
+
+The dramaturgical layer derives from the virtual timeline.
+
+Key elements such as:
+
+- scene types
+- conflict patterns
+- revelation mechanics
+- dramatic tempo
+
+should all correspond to phases of the timeline.
+
+
+---
+
+# Working Rule
+
+A narrative event is structurally meaningful only if it contributes to the transformation of the interpretive framework.
+
+Events that do not influence the epistemic trajectory should be minimized.
+
+
+---
+
+# Summary
+
+The virtual timeline defines the structural movement of understanding within the narrative architecture.
+
+It does not describe what happens.
+
+It describes **how the meaning of what happens changes over time**.
