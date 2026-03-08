@@ -1,5 +1,14 @@
 ## Mandatory Projection Discipline
 
+### Status of Projections
+
+Projections are not illustrations of the core architecture.
+
+They are autonomous works that emerge under the constraints of the
+projection discipline. The architecture may later be used to interpret
+or analyze them, but the projection itself must not function as a
+didactic demonstration of the framework.
+
 Every projection built from this core **must** contain (minimally):
 
 - Which 3–5 core aspects it deliberately foregrounds
@@ -141,3 +150,13 @@ See: `architectural-self-positioning.md`
 The requirement that projections declare their reductions
 applies without exception —
 including to the architecture that generates the requirement.
+
+### Order of Use
+
+The projection discipline is applied after an initial projection exists.
+
+The first version of a projection should be written without filling out
+this document in advance. The framework is then used retrospectively to
+analyze foregrounding, distortion, omission, and reduction.
+
+

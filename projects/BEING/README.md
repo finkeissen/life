@@ -220,3 +220,27 @@ You write when the order must now be carried.
 
 Everything else — scene, style, figure, music —  
 is execution.
+
+## Identity Status
+
+The recurrence of figures named Ekkehard / Eckart does not imply
+metaphysical identity.
+
+Continuity across the work may be interpreted in several ways:
+
+- spiritual resonance
+- structural inheritance
+- intellectual lineage
+- narrative projection of the present narrator
+
+The work deliberately refuses to resolve this ambiguity.
+
+The recurrence is not proof of rebirth,
+but exposure of recurring responsibility.
+
+Whether these figures are historically distinct persons,
+dream reconstructions,
+or projections of one consciousness
+remains structurally undecided.
+
+

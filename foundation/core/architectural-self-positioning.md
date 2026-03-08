@@ -24,7 +24,7 @@ These aspects are treated as invariant and unavoidable.
 
 ---
 
-## What the Core Exaggerates or Sharpens
+## What the Core Deliberately Sharpens
 
 The core systematically emphasizes:
 
@@ -123,3 +123,34 @@ to the core itself.
 
 If projections must declare their reductions,
 so must the architecture that generates them.
+
+### Conditions for Architectural Revision
+
+The core architecture is not revised based on single projections
+or isolated experiences.
+
+Revisions occur only when repeated structural friction appears
+across multiple projections.
+
+
+## Position in the Repository
+
+This document is part of the core architecture located in:
+
+foundation/core/
+
+It applies the same projection discipline required from all projects
+to the architecture itself.
+
+This document follows the same reduction declaration required by
+`mandatory-projection-discipline.md`.
+
+
+## Function of This Document
+
+This document prevents the core architecture from silently
+becoming a metaphysical doctrine.
+
+It keeps the architecture visible as a reduction.
+
+

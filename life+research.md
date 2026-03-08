@@ -269,3 +269,14 @@ it must be revised, extended or discarded according to its own revision conditio
 ---
 
 This document describes a cycle, not a crown.
+
+### On Personal Experience
+
+Personal experience may enter this architecture as material and friction,
+but not as structural authority.
+
+Experiences can reveal blind spots, tensions, or structural mismatches.
+However, they do not determine the architecture directly.
+Structural revisions require repeated friction across multiple projections.
+
+
