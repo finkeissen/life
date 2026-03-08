@@ -176,3 +176,33 @@ but a space in which projection becomes possible.
 Silence at the core level
 is a structural feature.
 
+
+foundation/core
+→ defines universal constraints
+
+BEING
+→ is a projection of those constraints into narrative form
+
+## Relation to Foundation
+
+This system is a projection of the structural architecture defined in:
+
+`foundation/core/`
+
+The novel does not redefine these structures.
+It explores their consequences within a human life.
+
+## Medium Adaptation
+
+Although this directory focuses on the novel,
+the same architecture can generate projections in other media:
+
+- film
+- libretto / opera
+- essay
+- visual installations
+
+Each medium derives its own dramaturgy
+from the same architectural and ingredient layers.
+
+

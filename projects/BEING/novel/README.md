@@ -94,3 +94,4 @@ This project does not redefine core terminology locally.
 - `foundation/core/principles.md`
 - `foundation/core/glossary.md`
 
+
