@@ -28,7 +28,17 @@ The expressions within it remain open.
 
 See also: [life + research – Movement Between Existence and Epistemic Discipline](life+research.md)
 
----
+### Complementary structural perspectives
+
+The `life` repository condenses the **existential-leiblich-emotional architecture** of human life:  
+lived irreversibility, affective signals of coherence disruption, embodied tension, shame/pain as structural markers, unreife as developmental mismatch, resonance without redemptive discharge.
+
+It is formally independent from — yet structurally grounded in — the **epistemic-normative research program** (Forschungsprogramm), which maps the same invariants through diagnostic corrigibility, layered thinking (7 Denkebenen), normative operationalization, macro-coordination, and ontological grammar.
+
+Both strands are partial projections of the underlying architecture.  
+Neither completes nor redeems the other.  
+Their unresolved tension is itself structurally productive.
+
 
 ## What This Repository Is
 

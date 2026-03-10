@@ -2,6 +2,19 @@
 
 Projects are **media projections** derived from the core architecture of `life`.
 
+### Complementary perspectives
+
+The `life` repository provides the **structural-existential condensation** of human life under constraint:  
+a view that foregrounds lived irreversibility, affective signals of coherence disruption, embodied tension, and non-narrative development.
+
+It is formally independent from, yet structurally grounded in, the broader **research program** (Forschungsprogramm), which articulates the **epistemic-normative discipline**:  
+diagnosis under uncertainty, corrigible rule systems, macro-level integrity, and ontological grammar.
+
+Both are partial projections of the same underlying architecture.  
+Neither completes the other.  
+Their tension remains productive and unresolved.
+
+
 ## Terminology
 
 The **master glossary** lives at `foundation/core/glossary.md`.
