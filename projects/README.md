@@ -414,4 +414,34 @@ to restate the architecture.
 It should only activate it.
 
 
+### Current project domains (placeholders) – extended heuristic list
+
+The domains below are **heuristically ordered** by their structural affinity to the core architecture.  
+The sequence follows the principle *form follows function*:  
+Which medium most clearly reveals which invariants — and which does it most consistently obscure?
+
+| Domain                  | Suggested folder name              | Primary structural strengths                                      | Typical systematic blind spots                                   | Status          | Indicative meaningful cardinality          |
+|-------------------------|------------------------------------|-------------------------------------------------------------------|------------------------------------------------------------------|-----------------|--------------------------------------------|
+| Installation            | `installation/`                    | Embodiment, spatial relation, non-linearity, silence, physical consequence | Narrative continuity, explicit responsibility tracing, discursive development | ⛔ placeholder   | 1–∞ (depending on space/object saturation) |
+| Sculpture / Object      | `installation/sculpture/` or `object/` | Materiality, permanence, irreversibility, mute presence           | Temporality, interiority, collective resonance                   | ⛔ placeholder   | 3–12 (series usually stronger than singles) |
+| Image / Pictorial cycle | `installation/image-cycle/` or `visual/` | Simultaneity, surface as reduction, regime of the gaze            | Processuality, sound, embodiment                                 | ⛔ placeholder   | 1 cycle (5–25 images) usually sufficient   |
+| Performance / Action    | `performance/`                     | Singularity, bodily presence, real-time social dynamics           | Reflexive distance, repeatability, analytical depth              | ⛔ placeholder   | 1–5 (more tends toward redundancy)         |
+| Opera / Music theatre   | `opera/`                           | Collective resonance, voice as body, irreversibility, mythic condensation | Analytical clarity, internal justification, fine causality       | ⚠️ high potential | up to 5 (each a distinct architectural cut) |
+| Libretto                | `libretto/`                        | Linguistic compression, decision, scene, irreversibility          | Music, space, simultaneity                                       | ⚠️ placeholder   | 1 (or 1 per opera)                         |
+| Novel / Long narrative  | `novel/`                           | Interiority, temporal dilation, reflective distance, maturation over time | Bodily immediacy, simultaneity, non-verbal relation              | ⚠️ under-specified | 1 (additional = mostly perspectival variants) |
+| Film / Moving image     | `film/`                            | Simultaneity, environmental context, contingency, relational event | Inner justification, responsibility attribution, abstraction    | ⛔ major gap     | 0–1 (more risks false coherence)           |
+| Essay / Tract           | `essay/`                           | Conceptual precision, traceable argumentation                     | Affective resonance, lived immediacy, temporal pressure          | ⚠️ partial       | 1–3 (more risks redundancy)                |
+| Diagram / Mapping       | `diagram/` or `cartography/`       | Abstract relations, overview, non-narrative clarity               | Embodiment, affect, event-character, temporality                 | ⛔ placeholder   | 1–5 (sets of maps/diagrams)                |
+
+**Notes on the table**
+
+- Cardinality suggestions are **heuristic only** — they help avoid structural dilution or mere variation.
+- New domains can be added at any time **if** they expose a previously unprojected aspect with a significantly different blindness profile.
+- Hybrid forms (e.g. cinematic installation, object-based performance) are welcome and often structurally powerful — but they must be assigned to **one primary folder** and explicitly declare their hybridity in the project README.
+
+**Additional conceivable domains** (low priority for now, but structurally plausible):  
+`sound / acoustic installation` · `textile / material weave` · `generative / computational projection` · `archival practice` · `dance / choreography` · `culinary or ritual action` · `typography / textual object`
+
+All domains — existing and future — remain **placeholders** until concretely instantiated with a proper project README that fulfills the required self-positioning.
+
 
