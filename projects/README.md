@@ -351,3 +351,67 @@ A project must:
 
 Projects are not expansions of the core.
 They are constrained projections.
+
+
+## Productive contradiction
+
+Different projects and styles may generate
+apparently conflicting claims
+without violating the core architecture.
+
+Such conflict is not merely tolerated.
+It is often structurally informative.
+
+A contradiction between projections may indicate:
+
+- a real tension within life
+- a limit of a given medium
+- a developmental task not yet integrated
+- a blind spot in one or more forms of articulation
+
+The repository therefore treats contradiction
+not only as admissible,
+but as diagnostically valuable.
+
+
+## Developmental consequence
+
+Where projections repeatedly expose
+misalignment, contradiction, or incompleteness,
+the repository may derive
+new tasks of personality development.
+
+Development is therefore not understood
+as smooth progression,
+but as work emerging from tension.
+
+What cannot yet be held together
+may define the next task.
+
+
+## Generative reuse
+
+Projects and styles should be specified
+so that they can eventually be reused
+as generative operators.
+
+The long-term goal is that
+a new work may be instantiated
+from minimal input,
+because the architectural logic
+is already encoded in the repository.
+
+In advanced cases,
+a single sentence may be sufficient
+to select:
+
+- a project
+- a style
+- an emphasis or tonal shift
+
+The prompt should not need
+to restate the architecture.
+It should only activate it.
+
+
+
