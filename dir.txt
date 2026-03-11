@@ -1,0 +1,321 @@
+.:
+insgesamt 84
+-rw-rw-r-- 1 ef ef     0 Mär 10 19:42 dir.txt
+drwxrwxr-x 8 ef ef  4096 Mär 10 19:35 foundation
+-rw-rw-r-- 1 ef ef   632 Mär  1 09:46 LICENSE
+drwxr-xr-x 3 ef ef  4096 Mär 10 19:37 projects
+-rw-rw-r-- 1 ef ef 73353 Mär 10 13:15 README.md
+
+./foundation:
+insgesamt 28
+drwxr-xr-x 5 ef ef 4096 Mär 10 19:37 core
+drwxr-xr-x 2 ef ef 4096 Mär 10 19:37 docs
+drwxrwxr-x 2 ef ef 4096 Mär 10 19:37 governance
+drwxrwxr-x 2 ef ef 4096 Mär 10 19:32 invariants
+drwxrwxr-x 2 ef ef 4096 Mär 10 19:37 meta
+drwxrwxr-x 2 ef ef 4096 Mär 10 19:34 models
+-rw-rw-r-- 1 ef ef  469 Mär  1 09:54 README.md
+
+./foundation/core:
+insgesamt 48
+-rw-r--r-- 1 ef ef  477 Feb 28 21:51 abysmal-and-illuminative.md
+-rw-r--r-- 1 ef ef 1616 Jan 26 15:37 architecture.md
+drwxrwxr-x 2 ef ef 4096 Mär  1 09:51 being
+-rw-r--r-- 1 ef ef 1572 Feb 28 21:51 epistemic-architecture.md
+drwxrwxr-x 2 ef ef 4096 Mär  1 09:51 feeling
+-rw-r--r-- 1 ef ef  807 Feb 28 21:51 life-lies.md
+-rw-r--r-- 1 ef ef  952 Feb 28 21:51 meaningful-path.md
+-rw-rw-r-- 1 ef ef 2514 Mär  8 21:49 narrative-ontology.md
+-rw-r--r-- 1 ef ef 4221 Mär  8 12:32 README.md
+-rw-r--r-- 1 ef ef 1437 Feb 28 21:51 temporal-architecture.md
+drwxrwxr-x 2 ef ef 4096 Mär  1 09:51 thinking
+
+./foundation/core/being:
+insgesamt 4
+-rw-rw-r-- 1 ef ef 282 Mär  1 09:51 README.md
+
+./foundation/core/feeling:
+insgesamt 4
+-rw-rw-r-- 1 ef ef 298 Mär  1 09:51 README.md
+
+./foundation/core/thinking:
+insgesamt 4
+-rw-rw-r-- 1 ef ef 269 Mär  1 09:51 README.md
+
+./foundation/docs:
+insgesamt 8
+-rw-r--r-- 1 ef ef 282 Jan 26 13:38 README.md
+-rw-rw-r-- 1 ef ef 549 Jan 26 15:49 ROADMAP.md
+
+./foundation/governance:
+insgesamt 32
+-rw-r--r-- 1 ef ef  697 Feb 28 21:51 accessibility-and-open-use.md
+-rw-r--r-- 1 ef ef  240 Mär  8 11:00 ai-integration.md
+-rw-r--r-- 1 ef ef 5477 Mär  8 12:08 architectural-self-positioning.md
+-rw-r--r-- 1 ef ef 4366 Mär  8 11:37 mandatory-projection-discipline.md
+-rw-rw-r-- 1 ef ef 1571 Mär  8 13:46 projection_principles.md
+-rw-r--r-- 1 ef ef  263 Mär  8 11:00 projection-protocol.md
+
+./foundation/invariants:
+insgesamt 36
+-rw-r--r-- 1 ef ef 3931 Feb 28 21:51 body-and-materiality.md
+-rw-r--r-- 1 ef ef 3969 Feb 28 21:51 completion-and-openness.md
+-rw-rw-r-- 1 ef ef 1888 Mär  9 09:04 core-invariants.md
+-rw-rw-r-- 1 ef ef 3076 Mär  8 21:49 formal-architecture.md
+-rw-r--r-- 1 ef ef  724 Feb 28 21:51 ontological-technological-layer.md
+-rw-r--r-- 1 ef ef 1417 Jan 26 15:37 principles.md
+-rw-rw-r-- 1 ef ef 3005 Mär  8 12:12 reality-representation-gap.md
+-rw-r--r-- 1 ef ef  573 Feb 28 21:51 state-norm-decision.md
+-rw-r--r-- 1 ef ef  457 Feb 28 21:51 structural-humility.md
+
+./foundation/meta:
+insgesamt 40
+-rw-r--r-- 1 ef ef  476 Feb 28 21:51 final-structural-caution.md
+-rw-r--r-- 1 ef ef 1020 Mär  2 12:48 glossary.md
+-rw-rw-r-- 1 ef ef 6979 Mär 10 12:34 historical-projections-comparison.md
+-rw-r--r-- 1 ef ef  757 Feb 28 21:51 immediate-structural-summary.md
+-rw-r--r-- 1 ef ef  708 Feb 28 21:51 known-structural-gaps.md
+-rw-rw-r-- 1 ef ef 6342 Mär  8 11:36 life+research.md
+-rw-r--r-- 1 ef ef  740 Feb 28 21:51 meta-trap.md
+-rw-r--r-- 1 ef ef  342 Mär  8 11:00 overview.md
+
+./foundation/models:
+insgesamt 44
+-rw-r--r-- 1 ef ef  755 Feb 28 21:51 collisions-and-tensions.md
+-rw-rw-r-- 1 ef ef 1806 Mär  9 09:04 core-models.md
+-rw-r--r-- 1 ef ef  573 Feb 28 21:51 inner-architecture-ego-maturation.md
+-rw-r--r-- 1 ef ef  718 Feb 28 21:51 macro-architecture-economy-politics.md
+-rw-r--r-- 1 ef ef  556 Feb 28 21:51 pre-schema-forcing-question.md
+-rw-r--r-- 1 ef ef  318 Mär  8 11:00 problem-graph.md
+-rw-r--r-- 1 ef ef 1559 Feb 28 21:51 question-architecture.md
+-rw-r--r-- 1 ef ef  444 Mär  8 11:00 seven-levels.md
+-rw-r--r-- 1 ef ef 4549 Feb 28 21:51 temporal-pressure.md
+-rw-rw-r-- 1 ef ef 4046 Mär  8 12:58 virtual_protagonists.md
+
+./projects:
+insgesamt 40
+drwxrwxr-x 9 ef ef  4096 Mär 10 19:41 BEING
+-rw-rw-r-- 1 ef ef  1660 Mär  8 13:46 projection_map.md
+-rw-rw-r-- 1 ef ef 14114 Mär 10 12:12 projects+styles.md
+-rw-r--r-- 1 ef ef 13896 Mär 10 13:14 README.md
+
+./projects/BEING:
+insgesamt 36
+drwxrwxr-x 2 ef ef 4096 Mär 10 19:40 architecture
+drwxrwxr-x 2 ef ef 4096 Mär  8 21:56 characters
+drwxr-xr-x 2 ef ef 4096 Mär  2 12:54 installation
+drwxrwxr-x 2 ef ef 4096 Mär  8 11:45 logs
+drwxrwxr-x 2 ef ef 4096 Mär  9 21:05 materials
+drwxrwxr-x 7 ef ef 4096 Mär 10 19:41 media
+drwxrwxr-x 2 ef ef 4096 Mär 10 19:40 ops
+-rw-rw-r-- 1 ef ef 5028 Mär  8 11:42 README.md
+
+./projects/BEING/architecture:
+insgesamt 104
+-rw-r--r-- 1 ef ef 5828 Mär  8 12:29 character-architecture.md
+-rw-r--r-- 1 ef ef 1441 Mär  8 21:00 character-system.md
+-rw-rw-r-- 1 ef ef 1410 Mär  9 09:00 core_scope.md
+-rw-rw-r-- 1 ef ef 3544 Mär  2 13:24 dimensions.md
+-rw-rw-r-- 1 ef ef 1977 Mär  8 21:51 ekkehard-structural-role.md
+-rw-r--r-- 1 ef ef   91 Mär  8 11:00 epistemic-ambiguity.md
+-rw-r--r-- 1 ef ef   61 Mär  8 11:00 formal-architecture.md
+-rw-r--r-- 1 ef ef  806 Mär  8 10:50 historical-time.md
+-rw-rw-r-- 1 ef ef  608 Mär  8 11:43 identity-architecture.md
+-rw-rw-r-- 1 ef ef 4280 Mär  2 13:24 ingredients.md
+-rw-r--r-- 1 ef ef  392 Mär  8 10:50 institutional-environment.md
+-rw-r--r-- 1 ef ef  425 Mär  8 10:50 intellectual-development.md
+-rw-r--r-- 1 ef ef  478 Mär  8 10:50 life-age.md
+-rw-r--r-- 1 ef ef 2304 Mär  8 21:00 life-timeline.md
+-rw-rw-r-- 1 ef ef 3076 Mär  2 13:24 manifest.md
+-rw-r--r-- 1 ef ef 1263 Mär  8 21:00 media-allocation.md
+-rw-rw-r-- 1 ef ef  415 Mär  8 11:44 motif-architecture.md
+-rw-r--r-- 1 ef ef   85 Mär  8 11:00 narrative-ontology.md
+-rw-r--r-- 1 ef ef  396 Mär  8 10:50 narrative-order.md
+-rw-rw-r-- 1 ef ef 2534 Mär  9 09:50 narrative_perspective.md
+-rw-r--r-- 1 ef ef  352 Mär  8 12:10 README.md
+-rw-rw-r-- 1 ef ef 1490 Mär  9 09:04 source_map.md
+-rw-r--r-- 1 ef ef  102 Mär  8 11:00 structural-exposure.md
+-rw-rw-r-- 1 ef ef  702 Mär  8 11:43 temporal-architecture.md
+
+./projects/BEING/characters:
+insgesamt 48
+-rw-r--r-- 1 ef ef 308 Mär  8 20:55 child_or_next_generation.md
+-rw-r--r-- 1 ef ef 419 Mär  8 20:55 ekkehard.md
+-rw-r--r-- 1 ef ef 314 Mär  8 20:55 father.md
+-rw-r--r-- 1 ef ef 305 Mär  8 20:55 friend.md
+-rw-r--r-- 1 ef ef 343 Mär  8 20:55 institutional_authority.md
+-rw-r--r-- 1 ef ef 318 Mär  8 20:55 mentor_teacher.md
+-rw-r--r-- 1 ef ef 318 Mär  8 20:55 mirror_character.md
+-rw-r--r-- 1 ef ef 305 Mär  8 20:55 mother.md
+-rw-r--r-- 1 ef ef 332 Mär  8 20:55 outsider.md
+-rw-r--r-- 1 ef ef 340 Mär  8 20:55 partner_or_intimate.md
+-rw-r--r-- 1 ef ef 330 Mär  8 20:55 sibling.md
+-rw-r--r-- 1 ef ef 264 Mär  8 20:55 witness.md
+
+./projects/BEING/installation:
+insgesamt 4
+-rw-r--r-- 1 ef ef 637 Mär  2 12:54 README.md
+
+./projects/BEING/logs:
+insgesamt 4
+-rw-rw-r-- 1 ef ef 181 Mär  8 11:45 2026-03-architecture-start.md
+
+./projects/BEING/materials:
+insgesamt 8
+-rw-rw-r-- 1 ef ef 1817 Mär  9 21:05 ideas.md
+-rw-rw-r-- 1 ef ef 1856 Mär  9 09:06 README.md
+
+./projects/BEING/media:
+insgesamt 20
+drwxr-xr-x 2 ef ef 4096 Mär  2 12:54 essay
+drwxr-xr-x 3 ef ef 4096 Mär  8 22:04 film
+drwxrwxr-x 3 ef ef 4096 Mär  8 22:04 libretto
+drwxr-xr-x 7 ef ef 4096 Mär  8 22:04 novel
+drwxr-xr-x 2 ef ef 4096 Mär  2 12:54 opera
+
+./projects/BEING/media/essay:
+insgesamt 4
+-rw-r--r-- 1 ef ef 587 Mär  2 12:54 README.md
+
+./projects/BEING/media/film:
+insgesamt 12
+drwxrwxr-x 2 ef ef 4096 Mär  8 13:42 architecture
+-rw-r--r-- 1 ef ef  863 Mär  8 21:03 film-outline.md
+-rw-rw-r-- 1 ef ef 2456 Mär  8 13:42 README.md
+
+./projects/BEING/media/film/architecture:
+insgesamt 52
+-rw-r--r-- 1 ef ef  808 Mär  8 12:40 character_presence.md
+-rw-r--r-- 1 ef ef 1222 Mär  8 12:40 film_projection_architecture.md
+-rw-r--r-- 1 ef ef  910 Mär  8 12:40 film_sequence_outline.md
+-rw-r--r-- 1 ef ef  546 Mär  8 12:40 film_status.md
+-rw-r--r-- 1 ef ef  826 Mär  8 12:40 montage_recurrence.md
+-rw-r--r-- 1 ef ef  958 Mär  8 12:40 projection_matrix.md
+-rw-r--r-- 1 ef ef 1840 Mär  8 12:40 README.md
+-rw-r--r-- 1 ef ef  940 Mär  8 12:40 sequence_architecture.md
+-rw-r--r-- 1 ef ef  833 Mär  8 12:40 shot_logic.md
+-rw-r--r-- 1 ef ef  852 Mär  8 12:40 sound_and_silence.md
+-rw-r--r-- 1 ef ef  849 Mär  8 12:40 time_image_strategy.md
+-rw-r--r-- 1 ef ef 1195 Mär  8 12:40 visual_grammar.md
+-rw-r--r-- 1 ef ef 1515 Mär  8 12:40 why_film.md
+
+./projects/BEING/media/libretto:
+insgesamt 72
+-rw-r--r-- 1 ef ef  142 Mär  8 11:50 act_structure.md
+drwxrwxr-x 2 ef ef 4096 Mär  8 13:25 architecture
+-rw-r--r-- 1 ef ef  570 Mär  8 11:50 characters.md
+-rw-r--r-- 1 ef ef  240 Mär  8 11:50 chorus_function.md
+-rw-r--r-- 1 ef ef  196 Mär  8 11:50 leitmotif_development.md
+-rw-r--r-- 1 ef ef  151 Mär  8 11:50 leitmotifs.md
+-rw-r--r-- 1 ef ef  158 Mär  8 11:50 opera_III_libretto_outline.md
+-rw-r--r-- 1 ef ef  162 Mär  8 11:50 opera_II_libretto_outline.md
+-rw-r--r-- 1 ef ef  172 Mär  8 11:50 opera_I_libretto_outline.md
+-rw-r--r-- 1 ef ef  172 Mär  8 11:50 opera_IV_libretto_outline.md
+-rw-r--r-- 1 ef ef  374 Mär  8 11:50 opera_libretto_architecture.md
+-rw-r--r-- 1 ef ef  877 Mär  8 21:03 opera-structure.md
+-rw-r--r-- 1 ef ef  228 Mär  8 11:50 opera_structure.md
+-rw-r--r-- 1 ef ef  134 Mär  8 11:50 opera_V_libretto_outline.md
+-rw-r--r-- 1 ef ef  439 Mär  8 11:50 projection_matrix.md
+-rw-r--r-- 1 ef ef  697 Mär  8 11:50 README.md
+-rw-r--r-- 1 ef ef  168 Mär  8 11:50 scene_mirror_map.md
+-rw-r--r-- 1 ef ef  305 Mär  8 11:50 why_opera.md
+
+./projects/BEING/media/libretto/architecture:
+insgesamt 60
+-rw-r--r-- 1 ef ef  386 Mär  8 12:19 conflict_patterns.md
+-rw-r--r-- 1 ef ef  248 Mär  8 12:19 dramatic_tempos.md
+-rw-r--r-- 1 ef ef  352 Mär  8 12:19 dramaturgy_README.md
+-rw-r--r-- 1 ef ef  195 Mär  8 12:19 ensemble_structures.md
+-rw-r--r-- 1 ef ef  211 Mär  8 12:19 epistemic_arc_map.md
+-rw-r--r-- 1 ef ef  239 Mär  8 12:19 epistemic_turning_points.md
+-rw-r--r-- 1 ef ef  281 Mär  8 12:19 epoch_projection.md
+-rw-r--r-- 1 ef ef  301 Mär  8 12:19 narrative_topology.md
+-rw-r--r-- 1 ef ef  251 Mär  8 12:19 recurrence_engine.md
+-rw-r--r-- 1 ef ef  251 Mär  8 12:19 revelation_mechanics.md
+-rw-r--r-- 1 ef ef  240 Mär  8 12:19 scene_progression_matrix.md
+-rw-r--r-- 1 ef ef  256 Mär  8 12:19 scene_types.md
+-rw-r--r-- 1 ef ef 2584 Mär  8 13:25 structural_mirror.md
+-rw-r--r-- 1 ef ef 3365 Mär  8 13:25 structural_tension_matrix.md
+-rw-r--r-- 1 ef ef 3550 Mär  8 13:25 virtual_timeline.md
+
+./projects/BEING/media/novel:
+insgesamt 40
+drwxrwxr-x 2 ef ef 4096 Mär  2 12:14 architecture
+drwxrwxr-x 2 ef ef 4096 Mär  8 22:07 dramaturgy
+drwxrwxr-x 2 ef ef 4096 Mär  2 12:29 execution
+drwxrwxr-x 2 ef ef 4096 Mär  2 11:55 ingredients
+-rw-r--r-- 1 ef ef 1698 Mär  8 21:03 narrative-outline.md
+-rw-rw-r-- 1 ef ef 1700 Mär  8 12:32 README.md
+-rw-r--r-- 1 ef ef  610 Mär  2 11:28 ROADMAP.md
+-rw-r--r-- 1 ef ef  634 Mär  8 21:03 scene-structure.md
+-rw-r--r-- 1 ef ef  632 Mär  2 11:28 STATUS.md
+drwxrwxr-x 2 ef ef 4096 Mär  8 14:45 storyboard
+
+./projects/BEING/media/novel/architecture:
+insgesamt 56
+-rw-r--r-- 1 ef ef  476 Mär  2 11:01 00_principles.md
+-rw-r--r-- 1 ef ef  399 Mär  2 11:01 01_structural_invariants.md
+-rw-r--r-- 1 ef ef 1120 Mär  2 11:11 02_ontology.md
+-rw-r--r-- 1 ef ef  737 Mär  2 11:01 03_zone_model.md
+-rw-r--r-- 1 ef ef  974 Mär  2 11:11 04_zone_differentiation_tests.md
+-rw-r--r-- 1 ef ef  491 Mär  2 11:11 05_structural_energy_model.md
+-rw-r--r-- 1 ef ef  505 Mär  2 11:11 06_compression_principle.md
+-rw-r--r-- 1 ef ef  368 Mär  2 11:01 07_recurrence_logic.md
+-rw-r--r-- 1 ef ef  242 Mär  2 11:01 08_responsibility_mechanics.md
+-rw-r--r-- 1 ef ef  484 Mär  2 11:01 09_admissibility_and_stop_conditions.md
+-rw-r--r-- 1 ef ef  340 Mär  2 11:01 10_dual_version_principle.md
+-rw-r--r-- 1 ef ef  346 Mär  2 11:01 11_architecture_decision_log.md
+-rw-rw-r-- 1 ef ef 4947 Mär  2 12:06 12_exposure_vectors.md
+
+./projects/BEING/media/novel/dramaturgy:
+insgesamt 68
+-rw-r--r-- 1 ef ef 3856 Mär  8 13:10 conflict_patterns.md
+-rw-r--r-- 1 ef ef 3541 Mär  8 13:09 dramatic_tempos.md
+-rw-r--r-- 1 ef ef 3443 Mär  8 13:09 ensemble_structures.md
+-rw-rw-r-- 1 ef ef 3768 Mär  8 13:15 epistemic_arc_map.md
+-rw-r--r-- 1 ef ef 3864 Mär  8 13:08 epistemic_turning_points.md
+-rw-rw-r-- 1 ef ef 3509 Mär  8 12:43 epoch_projection.md
+-rw-rw-r-- 1 ef ef 3423 Mär  8 13:16 narrative_topology.md
+-rw-r--r-- 1 ef ef 3659 Mär  8 13:06 README.md
+-rw-rw-r-- 1 ef ef 3574 Mär  8 13:14 recurrence_engine.md
+-rw-r--r-- 1 ef ef 3434 Mär  8 13:08 revelation_mechanics.md
+-rw-rw-r-- 1 ef ef 3358 Mär  8 13:13 scene_progression_matrix.md
+-rw-r--r-- 1 ef ef 3935 Mär  8 13:07 scene_types.md
+-rw-rw-r-- 1 ef ef 3221 Mär  8 13:11 structural_mirror.md
+-rw-rw-r-- 1 ef ef 4178 Mär  8 13:14 structural_tension_matrix.md
+-rw-rw-r-- 1 ef ef 4119 Mär  8 13:12 virtual_timeline.md
+
+./projects/BEING/media/novel/execution:
+insgesamt 4
+-rw-r--r-- 1 ef ef 297 Mär  2 11:28 README.md
+
+./projects/BEING/media/novel/ingredients:
+insgesamt 40
+-rw-r--r-- 1 ef ef  386 Mär  2 10:54 anthropological_conditions.md
+-rw-r--r-- 1 ef ef  266 Mär  2 10:54 institutional_fields.md
+-rw-r--r-- 1 ef ef  620 Mär  2 10:54 life_phases_structural.md
+-rw-r--r-- 1 ef ef  250 Mär  2 10:54 physical_dimension.md
+-rw-r--r-- 1 ef ef 5255 Mär  1 12:55 README.md
+-rw-r--r-- 1 ef ef  311 Mär  2 10:54 recurrence_patterns.md
+-rw-rw-r-- 1 ef ef 3015 Mär  1 17:49 scene_ideas.md
+-rw-r--r-- 1 ef ef  318 Mär  2 10:54 structural_tensions.md
+-rw-rw-r-- 1 ef ef 3062 Mär  1 17:49 topic_ideas.md
+
+./projects/BEING/media/novel/storyboard:
+insgesamt 28
+-rw-r--r-- 1 ef ef  404 Mär  8 13:45 character_roles.md
+-rw-r--r-- 1 ef ef  371 Mär  8 13:45 mirror_spine.md
+-rw-r--r-- 1 ef ef 1015 Mär  8 13:45 README.md
+-rw-r--r-- 1 ef ef  648 Mär  8 13:45 scene_registry.md
+-rw-r--r-- 1 ef ef 1963 Mär  8 13:45 storyboard.md
+-rw-r--r-- 1 ef ef  395 Mär  8 13:45 tension_tracking.md
+-rw-r--r-- 1 ef ef  319 Mär  8 13:45 timeline_projection.md
+
+./projects/BEING/media/opera:
+insgesamt 4
+-rw-r--r-- 1 ef ef 746 Mär  2 12:54 README.md
+
+./projects/BEING/ops:
+insgesamt 8
+-rw-rw-r-- 1 ef ef 3911 Mär  8 22:15 NEXT_STEPS.md
+-rw-rw-r-- 1 ef ef 1816 Mär  8 22:17 NEXT_WEEKS.md

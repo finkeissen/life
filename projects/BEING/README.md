@@ -1,48 +1,58 @@
 # BEING
 
-BEING is a projection space within the life architecture.
+BEING is a projection space within the `life` architecture.
 
-It does not refer to metaphysical rebirth.
-It refers to the structural recurrence of unresolved responsibility
-in altered personal, institutional, or historical form.
+It does not denote metaphysical rebirth.  
+It denotes the structural recurrence of unresolved responsibility
+in altered personal, institutional, historical, or symbolic form.
 
-BEING describes the return of what has not been carried.
+BEING names the return of what has not been carried.
 
 What is not clarified does not disappear.  
-What is delegated does not dissolve.  
-What is morally compensated does not become order.  
+What is not carried does not dissolve.  
+What is morally compensated does not become order.
 
 It returns.
 
 ---
 
-## Structural Position
+## Structural Status
 
-BEING is a projection derived from the core architecture of `life`.
+BEING is a project-space derived from the core architecture of `life`.
 
-It operates under the Mandatory Projection Discipline.
+It operates under the projection discipline of the repository:
+core terms are not redefined here,
+architectural invariants are not suspended here,
+and the project proceeds only through declared reduction and formal concentration.
 
-It does not redefine core terms.  
-It does not negate architectural invariants.  
-It dramatizes selected aspects under declared reduction.
+At the same time, BEING is meant to remain readable on its own.
+For that reason, certain structural assumptions are restated locally,
+without claiming independent theoretical status.
+
+BEING is therefore neither a separate ontology
+nor an autonomous doctrine.
+It is a projection.
 
 ---
 
-## Core Definition
+## Core Determination
 
-BEING is repetition without redemption.
+BEING can be stated in one sentence:
+
+**BEING is repetition without redemption.**
 
 Not as metaphysics.  
-Not as spiritual progress.  
+Not as spiritual ascent.  
 Not as karmic balance.  
+Not as moral pedagogy.
 
 But as structural inevitability.
 
 Unresolved responsibility reappears.  
 Uncarried order destabilizes systems.  
-Good intentions without structural integrity reproduce collapse.
+Locally coherent action, if structurally uncarried, reproduces collapse.
 
-No progress.  
+There is no guaranteed progress.  
 No synthesis.  
 No absolution.
 
@@ -50,197 +60,240 @@ Only increasing exposure.
 
 ---
 
-# Projection Discipline Declaration
+## What This Projection Foregrounds
 
-## 1. Foregrounded Core Aspects
+BEING deliberately foregrounds the following aspects of the architecture:
 
-This projection deliberately foregrounds:
+- irreversibility of decision
+- responsibility without guaranteed effect
+- local coherence under global blindness
+- development under constraint
+- failure as structural rather than moral
+- recurrence of unresolved order
 
-- Irreversibility of decision  
-- Responsibility without guaranteed effect  
-- Local coherence under global blindness  
-- Development under constraint  
-- Failure as structural, not moral  
-
-These aspects are intensified across narrative scale.
-
----
-
-## 2. Distortions and Intensifications
-
-The projection exaggerates:
-
-- Recurrence as thematic concentration  
-- Structural exposure as progressive stripping  
-- Non-redemption as formal rule  
-
-Repetition is dramatized beyond everyday visibility  
-to expose structural inevitability.
+These aspects are not invented here.
+They are selected, intensified, and made narratively visible.
 
 ---
 
-## 3. Systematic Omissions
+## Projection Discipline Declaration
+
+Like every projection, BEING works through reduction.
+It does not reproduce the whole architecture.
+It chooses one structural line and sharpens it.
+
+### Intensifications
+
+This projection intensifies:
+
+- recurrence as thematic concentration
+- exposure as progressive stripping
+- non-redemption as formal rule
+- responsibility as non-delegable burden
+
+Repetition is dramatized beyond everyday visibility
+in order to make structural recurrence legible.
+
+### Systematic Underweighting
 
 This projection deliberately underweights:
 
-- Play and non-instrumental aesthetic value  
-- Embodied materiality as primary driver  
-- Collective maturation beyond individual exposure  
-- Reconciliation narratives  
+- play and non-instrumental aesthetic value
+- reconciliation
+- collective maturation beyond exposure
+- embodied materiality as primary driver
+- non-developmental meaning
 
-These omissions allow structural recurrence
-to remain sharply visible.
+These omissions are not accidental.
+They are the price of precision.
+
+### Explicit Reduction Statement
+
+BEING is partially blind to joy, play, reconciliation,
+and non-developmental meaning.
+
+Precisely through this blindness,
+it can bring structural recurrence,
+non-redemptive responsibility,
+and irreversible exposure into sharper form.
+
+This is not a total claim about reality.
+It is the declared reduction under which the project operates.
 
 ---
 
-## 4. Explicit Reduction Statement
+## Project Logic
 
-This work is blind to immanent joy, play, and non-developmental meaning,  
-and precisely because of that blindness  
-it is able to bring structural recurrence and non-redemptive responsibility  
-into sharp relief.
+BEING does not primarily ask:
+
+How can contradiction be healed?  
+How can guilt be compensated?  
+How can the self be restored?
+
+It asks:
+
+What returns when responsibility is not carried?  
+What collapses when order is presupposed but not enacted?  
+What remains when innocence, excuse, and moral relief are successively removed?
+
+The project therefore tends toward exposure rather than resolution.
 
 ---
 
-# The Ekkehard Cycle
+## Current Realization: The Ekkehard Cycle
 
-The novel **“Meister Ekkehard – Journey Against Space & Time”**
-and its five-opera cycle are one realization of BEING.
+One central realization of BEING is the **Ekkehard cycle**.
 
-Structure:
+Current title context:
 
-- 1 Novel  
-- 1 Libretto  
-- 5 Operas  
+**“Meister Ekkehard – Journey Against Space & Time”**
+
+At present, this realization includes:
+
+- 1 novel
+- 1 libretto
+- 5 operas
+
+This cycle is not identical with BEING as such,
+but it is currently its principal realization.
 
 Each opera marks an irreversible loss:
 
-1. Loss of naive order  
-2. Loss of stable self  
-3. Loss of delegability  
-4. Loss of moral relief  
-5. Loss of excuse  
+1. loss of naive order
+2. loss of stable self
+3. loss of delegability
+4. loss of moral relief
+5. loss of excuse
 
-No redemption arc.  
+There is no redemption arc.
 Only deepening structural exposure.
 
 ---
 
-# The Five-Zone Architecture (Novel)
+## Five-Zone Architecture of the Novel
 
-Zone A – Supported Self-Evidence  
-Zone B – Inner Irritation  
-Zone C – Non-Delegability  
-Zone D – Loss of Moral Relief  
-Zone E – Final Openness / No Excuse  
+The novel realization currently follows a five-zone progression:
 
-The reader is gradually deprived  
-of compensatory narratives.
+- **Zone A** – Supported Self-Evidence
+- **Zone B** – Inner Irritation
+- **Zone C** – Non-Delegability
+- **Zone D** – Loss of Moral Relief
+- **Zone E** – Final Openness / No Excuse
 
-The final zone does not resolve.  
-It exposes.
+The reader is gradually deprived of compensatory narratives.
 
----
-
-# The Modern Tragedy
-
-No one is guilty.  
-And precisely therefore, no one is innocent.
-
-The system collapses not despite good intentions,  
-but because locally coherent intentions  
-are enacted without carrying order.
-
-Failure is not betrayal.  
-It is structural misalignment under constraint.
+The final zone does not resolve contradiction.
+It exposes what remains when resolution is no longer available.
 
 ---
 
-# Central Axes (Unresolved Tensions)
+## Modern Tragic Form
 
-- Chaos ↔ Order  
-- Fear ↔ Honesty  
-- Truth ↔ Belonging  
-- Ego ↔ Responsibility  
-- Knowledge ↔ Effect  
-- Language ↔ Silence  
-- Power ↔ Humility  
-- Time ↔ Recurrence  
-- Question ↔ Answer  
+BEING operates through a specifically modern tragic logic.
 
-These are not dualisms awaiting synthesis.  
-They are constitutive tensions.
+No one is simply guilty.  
+And precisely therefore, no one remains simply innocent.
 
----
+Collapse does not arise only from malice or betrayal.
+It can arise from locally coherent action
+performed without carried order.
 
-# Formal Invariants (Non-Negotiable)
+Failure is therefore not treated primarily as sin,
+but as structural misalignment under constraint.
 
-Works within BEING must not contain:
-
-- Solutions  
-- Redemption  
-- Moral compensation  
-- Psychological pedagogy  
-- Progress narratives  
-
-Allowed:
-
-- Exposure  
-- Recurrence  
-- Disagreement  
-- Structural failure  
-- Responsibility without absolution  
+This tragic form does not absolve.
+It removes false simplification.
 
 ---
 
-# Media Openness
+## Central Axes
+
+Recurring tensions within BEING include:
+
+- chaos ↔ order
+- fear ↔ honesty
+- truth ↔ belonging
+- ego ↔ responsibility
+- knowledge ↔ effect
+- language ↔ silence
+- power ↔ humility
+- time ↔ recurrence
+- question ↔ answer
+
+These are not dualisms awaiting synthesis.
+They are constitutive tensions that remain operative.
+
+---
+
+## Formal Invariants
+
+Works developed under BEING must not rely on:
+
+- solution structures
+- redemption arcs
+- moral compensation
+- pedagogical psychologization
+- progress narratives that neutralize recurrence
+
+They may and often should contain:
+
+- exposure
+- recurrence
+- disagreement
+- structural failure
+- irreversible loss
+- responsibility without absolution
+
+These are not stylistic preferences.
+They are formal constraints internal to the projection.
+
+---
+
+## Media Status
 
 BEING is not medium-bound.
 
-Possible forms include:
+Possible realizations include:
 
-- Novel  
-- Opera  
-- Libretto  
-- Film  
-- Essay  
-- Installation  
-- Performance  
+- novel
+- opera
+- libretto
+- film
+- essay
+- installation
+- performance
 
-Medium is secondary.  
+Medium is secondary.
 Structural tension is primary.
+
+A change of medium does not justify a change of invariant.
 
 ---
 
-# Working Principle
+## Working Principle
 
-You do not write to explain.
+Within BEING, one does not write in order to explain.
 
-You write when the order must now be carried.
+One writes when order must now be carried in form.
 
-Everything else — scene, style, figure, music —  
-is execution.
+Everything else — scene, figure, language, image, music, staging —
+belongs to execution.
 
-## Identity Status
+---
 
-The recurrence of figures named Ekkehard / Eckart does not imply
-metaphysical identity.
+## Identity Status of Recurring Figures
 
-Continuity across the work may be interpreted in several ways:
+The recurrence of figures named Ekkehard / Eckart does not establish metaphysical identity.
+
+Continuity across works may be read as:
 
 - spiritual resonance
 - structural inheritance
 - intellectual lineage
-- narrative projection of the present narrator
+- narrator-bound projection
+- symbolic recurrence of unresolved responsibility
 
-The work deliberately refuses to resolve this ambiguity.
+The project deliberately refuses to close this ambiguity.
 
-The recurrence is not proof of rebirth,
-but exposure of recurring responsibility.
-
-Whether these figures are historically distinct persons,
-dream reconstructions,
-or projections of one consciousness
-remains structurally undecided.
-
-
+The recurrence is not proof of rebirth.
+It is the exposure of recurring responsibility under altered form.
