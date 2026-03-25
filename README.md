@@ -812,3 +812,20 @@ architectural constraints,
 developmental tensions,
 and selective projections
 without collapsing their differences.
+
+## Investigation of tenacious false assumptions
+
+Within BEING, a central line of inquiry is the structural phenomenon where individuals, groups or institutions **persist in false or inadequately grounded assumptions** despite available counter-evidence, internal tension or negative consequences.
+
+This persistence is not treated primarily as moral failure or stupidity, but as a structural pattern:
+
+- locally coherent action built on globally inadequate premises
+- refusal to carry the cost of revising core assumptions
+- recurrence of the same unresolved assumptions in altered form
+- escalation into conflict when multiple locally coherent but incompatible assumption-sets collide
+
+The project examines how such tenacious assumptions arise, stabilize, and propagate — and how they systematically contribute to interpersonal, institutional and historical conflicts without requiring malice or bad faith on any side.
+
+This investigation remains fully within the declared reduction of BEING: it sharpens exposure of recurrence without redemption, and it does not offer techniques for resolution or collective maturation. It only makes the structural mechanism more legible.
+
+
