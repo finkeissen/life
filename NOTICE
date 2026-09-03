@@ -4,12 +4,25 @@ https://github.com/finkeissen
 Copyright (C) 2024–2026 Ekkehard Finkeissen
 
 This repository is part of a layered research architecture.
-Licensing follows the central overview in the profile repository:
-https://github.com/finkeissen/finkeissen
 
+Licensing in this repository is layered:
+
+- Repository structure, foundation, architecture, governance,
+  tooling and non-artistic project scaffolding → AGPL-3.0
+  (see root LICENSE)
+
+- Artistic and literary content under projects/BEING/
+  (including novel, libretto, film, opera, characters,
+  materials, architecture notes that belong to the work,
+  and related media) → CC BY-SA 4.0
+  (see projects/BEING/LICENSE)
+
+Ecosystem overview:
 - Epistemic kernel and code repositories → AGPL-3.0
 - Hypotheses, predictions and pure text artefacts → CC BY-SA 4.0
 
 Local experimental runs and unreleased evidence remain private
 until deliberately published under the licence of the target repository.
 
+Central overview:
+https://github.com/finkeissen/finkeissen
